@@ -1,1 +1,1 @@
-This is my recipes project through The Odin Project. I'll be learning how to lay out a basic html page and how to link to other pages on the web.
+This is my recipes project through The Odin Project. I'll be learning how to lay out a basic html page and how to use relative links.
